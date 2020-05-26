@@ -7,7 +7,7 @@ Projects in chronological order (new first):
 - **Coming soon...**
 
 - **OAuth 2.0 Presentation**\
-  (_English Speaking, Reveal.js (presentation framework)_)
+  (_English Speaking, Reveal.js (presentation framework)_)\
   [Presentation link](https://aleksey-mu-oauth-presentation.netlify.app/)\
   [Video link](https://www.youtube.com/watch?v=JulAFvZj65M)\
   [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md) (could have been changed)\
