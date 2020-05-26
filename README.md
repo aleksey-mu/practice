@@ -1,31 +1,31 @@
-# My projects examples
+# My projects
 
 <!-- ## [Главная страница](https://aleksey-mu.github.io/practice/index.html) -->
 
 Projects in chronological order (new first):
 
-<!--
-- **Spotify API Presentation**\
-  (_English Speaking, Reveal.js (presentation framework)_)
-  [Presentation link](...)\
-  [Video link](...)\
-  [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md) (could have been changed)\
-   I chose my own topic, than I want. -->
-
 - **Coming soon...**
+
+- **OAuth 2.0 Presentation**\
+  (_English Speaking, Reveal.js (presentation framework)_)
+  [Presentation link](https://aleksey-mu-oauth-presentation.netlify.app/)\
+  [Video link](https://www.youtube.com/watch?v=JulAFvZj65M)\
+  [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/presentation.md) (could have been changed)\
+  In video I mostly try to speak by myself, but in some parts I read.
+
+- **Spotify OAuth**\
+  (_OAuth_)\
+  [Project link](https://wonderful-kilby-50eba4.netlify.app/)\
+  Simple test implementation OAuth usage for Spotify.
 
 - **Movie Search**\
   (_OMDb API, Yandex.Translate API, Swiper API, Jest, Webpack, ESLint, Babel, SCSS_)\
   [Project link](https://aleksey-mu-movie-search.netlify.app)\
   [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/movie-search.md) (could have been changed)
 
-- **Spotify OAuth**\
-  (_OAuth_)\
-  [Project link](https://wonderful-kilby-50eba4.netlify.app/)\
-  Simple implementation OAuth usage for Spotify.
-
 - **SpeakIt**\
   (_Speech Recognition API, Yandex.Translate API, Rest API, Webpack, ESLint, Babel, SCSS_)\
+  (Chrome only)
   [Project link](https://aleksey-mu-speakit.netlify.app/)\
   [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/speakit.md) (could have been changed)
 
