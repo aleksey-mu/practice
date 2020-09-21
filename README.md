@@ -6,6 +6,23 @@ Projects in chronological order (new first):
 
 - **Coming soon...**
 
+- **RS Scedule**\
+  (_React, Ant design, Webpack, ESLint, Babel, SCSS_)\
+  In work\
+  [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/schedule.md)
+  (could have been changed)
+
+- **RS Lang**\
+  (_Bootstrap, Rest API, Webpack, ESLint, Babel, SCSS_)\
+  [Project link](https://rslang-team14-aleksey-mu.netlify.app)\
+  [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/rslang.md) (could have been changed)\
+  My contribution in 'Наша команда' section ([Link](https://rslang-team14-aleksey-mu.netlify.app/#/team/))
+
+- **Fancy Weather**\
+  (_Speech Recognition API, Text-to-speech, Mapbox, Yandex.Translate API, Rest API, Webpack, ESLint, Babel, SCSS_)\
+  [Project link](https://aleksey-mu-fancy-weather.netlify.app/) (Chrome only, stop all adblockers!)\
+  [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md) (could have been changed)
+
 - **OAuth 2.0 Presentation**\
   (_English Speaking, Reveal.js (presentation framework)_)\
   [Presentation link](https://aleksey-mu-oauth-presentation.netlify.app/)\
@@ -25,8 +42,7 @@ Projects in chronological order (new first):
 
 - **SpeakIt**\
   (_Speech Recognition API, Yandex.Translate API, Rest API, Webpack, ESLint, Babel, SCSS_)\
-  (Chrome only)
-  [Project link](https://aleksey-mu-speakit.netlify.app/)\
+  [Project link](https://aleksey-mu-speakit.netlify.app/) (Chrome only)\
   [Initial task and features](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/speakit.md) (could have been changed)
 
 - **English For Kids**\
